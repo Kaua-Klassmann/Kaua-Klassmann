@@ -1,11 +1,11 @@
-# Olá! Me chamo Kauã Klassmann👋
+# Olá! Me chamo Kauã Klassmann 👋
 
-Sou um desenvolvedor fullstack apaixonado por criar soluções eficientes e escaláveis. Tenho experiência com diversas tecnologias e frameworks e estou sempre em busca de novos desafios e aprendizado.
+Sou um desenvolvedor fullstack apaixonado pela informática e estou na área a mais de 3 anos. Tenho experiência com diversas tecnologias e alguns frameworks, dominando melhor o javascript e tais frameworks do mesmo. Gosto da informática pelo jeito que ela deixa eu criar o do meu, como meus sistemas, sites, jogos, SOs, APPs, entre outros. 
 
 ## 🛠️ Tecnologias & Ferramentas
 
 - **Linguagens:** JavaScript, Python, Java, Php
-- **Frameworks:** Express.js, Vue.js
+- **Frameworks:** Express.js, Vue.js, Bootstrap
 - **Bancos de Dados:** MySQL, PostgreSQL
 
 ## 🔧 Principais Projetos
@@ -17,7 +17,7 @@ Uma breve descrição do projeto, suas funcionalidades principais, tecnologias u
 
 - **Desenvolvedor solo do SCE - Sistem de controle de estágios (2024 - Presente)**
   - Analise, criação e manutenção do frontend, backend e banco de dados do sistema completo.
-  - Vue.js, Bootstrap,  Axios, Node.js, Express.js e PostgreSQL.
+  - Vue.js, Bootstrap, Axios, Node.js, Express.js e PostgreSQL.
 
 - **Bolsista do "Laboratório de Ideias" do IFRS Campus Feliz (2024 - Presente)**
   - Criação de um chatbot para o SCE - Sistem de controle de estágios afim de responder dúvidas para os usuários sobre o sistema.
@@ -53,4 +53,5 @@ Uma breve descrição do projeto, suas funcionalidades principais, tecnologias u
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
-"Persistência é o caminho do sucesso." - Charles Chaplin
+
+"Ser programador é uma viagem onde a próxima parada é a solução de um problema." - Thales Valentim
