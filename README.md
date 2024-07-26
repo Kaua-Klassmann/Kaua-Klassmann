@@ -41,7 +41,7 @@ Sou um desenvolvedor fullstack apaixonado pela informática e estou na área a m
 
 ---
 
-<div>
+<div style="margin-bottom: 15px; display: grid; place-items: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaua-Klassmann&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
