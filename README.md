@@ -41,7 +41,7 @@ Sou um desenvolvedor fullstack apaixonado pela informática e estou na área a m
 
 ---
 
-<div align="center" height="150">
+<div align="center" height="200">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaua-Klassmann&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -55,6 +55,6 @@ Sou um desenvolvedor fullstack apaixonado pela informática e estou na área a m
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
-
+---
 
 "Ser programador é uma viagem onde a próxima parada é a solução de um problema." - Thales Valentim
