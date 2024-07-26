@@ -41,11 +41,11 @@ Sou um desenvolvedor fullstack apaixonado pela informática e estou na área a m
 
 ---
 
-<div style="margin-bottom: 15px; display: grid; place-items: center;">
+<div align="center" height="150">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaua-Klassmann&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<div style="display: flex; justify-content: center;">
+<div align="center">
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
