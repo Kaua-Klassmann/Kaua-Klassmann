@@ -5,7 +5,7 @@ Sou um desenvolvedor fullstack apaixonado pela informática e estou na área a m
 ## 🛠️ Tecnologias & Ferramentas
 
 - **Linguagens:** JavaScript, Rust, Python
-- **Frameworks:** Express.js, Vue.js, Bootstrap
+- **Frameworks:** Express.js, Vue.js
 - **Bancos de Dados:** PostgreSQL, MySQL
 
 ## 🔧 Principais Projetos
@@ -14,11 +14,11 @@ Sou um desenvolvedor fullstack apaixonado pela informática e estou na área a m
 
 ## 📚 Experiência
 
-- **Desenvolvedor solo do SCE - Sistema de controle de estágios (2024 - Presente)**
+- **Desenvolvedor solo do SCE - Sistema de controle de estágios (2024 - 2024)**
   - Analise, criação e manutenção do frontend, backend e banco de dados do sistema completo.
   - Vue.js, Bootstrap, Axios, Node.js, Express.js e PostgreSQL.
 
-- **Bolsista do "Laboratório de Ideias" do IFRS Campus Feliz (2024 - Presente)**
+- **Bolsista do "Laboratório de Ideias" do IFRS Campus Feliz (2024 - 2024)**
   - Criação de um chatbot para o SCE - Sistem de controle de estágios afim de responder dúvidas para os usuários sobre o sistema.
   - Python e o framework Rasa.
 
