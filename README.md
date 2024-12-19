@@ -1,6 +1,6 @@
 # Olá! Me chamo Kauã Klassmann 👋
 
-Sou um desenvolvedor fullstack apaixonado pela informática e estou na área a mais de 3 anos. Tenho experiência com diversas tecnologias e alguns frameworks, dominando melhor o javascript e tais frameworks do mesmo. Gosto da informática pelo jeito que ela deixa eu criar o do meu, como meus sistemas, sites, jogos, SOs, APPs, entre outros. 
+Sou um desenvolvedor fullstack apaixonado pela informática e estou na área a mais de 4 anos. Tenho experiência com diversas tecnologias e alguns frameworks, dominando melhor o javascript e tais frameworks do mesmo. Gosto da informática pelo jeito que ela deixa eu criar o do meu, como meus sistemas, sites, jogos, SOs, APPs, entre outros. 
 
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -50,8 +50,8 @@ Sou um desenvolvedor fullstack apaixonado pela informática e estou na área a m
   <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </div>
 
