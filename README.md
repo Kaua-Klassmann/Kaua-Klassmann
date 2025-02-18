@@ -1,11 +1,11 @@
 # Olá! Me chamo Kauã Klassmann 👋
 
-Sou um desenvolvedor fullstack apaixonado pela informática e estou na área a mais de 4 anos. Tenho experiência com diversas tecnologias e alguns frameworks, dominando melhor o javascript e tais frameworks do mesmo. Gosto da informática pelo jeito que ela deixa eu criar o do meu, como meus sistemas, sites, jogos, SOs, APPs, entre outros. 
+Sou um desenvolvedor fullstack apaixonado pela informática e estou na área a mais de 4 anos. Tenho experiência com diversas tecnologias e alguns frameworks, dominando melhor o rust e javascript. Gosto da informática pelo jeito que ela deixa eu criar o do meu, como meus sistemas, sites, jogos, SOs, APPs, entre outros. 
 
 ## 🛠️ Tecnologias & Ferramentas
 
-- **Linguagens:** JavaScript, Rust, Python
-- **Frameworks:** Express.js, Vue.js
+- **Linguagens:** Rust, JavaScript, Python
+- **Frameworks:** Axum, Express.js, Vue.js
 - **Bancos de Dados:** PostgreSQL, MySQL
 
 ## 🔧 Principais Projetos
@@ -18,10 +18,6 @@ Sou um desenvolvedor fullstack apaixonado pela informática e estou na área a m
   - Analise, criação e manutenção do frontend, backend e banco de dados do sistema completo.
   - Vue.js, Bootstrap, Axios, Node.js, Express.js e PostgreSQL.
 
-- **Bolsista do "Laboratório de Ideias" do IFRS Campus Feliz (2024 - 2024)**
-  - Criação de um chatbot para o SCE - Sistem de controle de estágios afim de responder dúvidas para os usuários sobre o sistema.
-  - Python e o framework Rasa.
-
 ## 🎓 Educação
 
 - **IFRS Campus Feliz, Técnico em informática (2022 - Presente)**
@@ -30,7 +26,7 @@ Sou um desenvolvedor fullstack apaixonado pela informática e estou na área a m
 ## 🏆 Certificações
 
 - **OBI - Olimpíada brasileira de informática**
-  - Top 50 na OBI disputada pelo IFRS Campus Feliz. 
+  - Top 50 na OBI, representando o IFRS Campus Feliz. 
 
 ## 🌐 Contato
 
@@ -46,11 +42,11 @@ Sou um desenvolvedor fullstack apaixonado pela informática e estou na área a m
 </div>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </div>
