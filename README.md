@@ -6,7 +6,7 @@ Sou um desenvolvedor fullstack apaixonado pela informática e estou na área a m
 
 - **Linguagens:** Rust, JavaScript, Python
 - **Frameworks:** Axum, Express.js, Vue.js
-- **Bancos de Dados:** PostgreSQL, MySQL
+- **Bancos de Dados:** PostgreSQL, MySQL, Redis
 
 ## 🔧 Principais Projetos
 
