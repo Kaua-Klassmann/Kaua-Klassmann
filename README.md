@@ -1,22 +1,26 @@
 # Olá! Me chamo Kauã Klassmann 👋
 
-Sou um desenvolvedor fullstack apaixonado pela informática e estou na área a mais de 4 anos. Tenho experiência com diversas tecnologias e alguns frameworks, dominando melhor o rust e javascript. Gosto da informática pelo jeito que ela deixa eu criar o do meu, como meus sistemas, sites, jogos, SOs, APPs, entre outros. 
+Sou um desenvolvedor backend apaixonado pela informática e estou na área a mais de 4 anos. Tenho experiência com diversas tecnologias e alguns frameworks, dominando melhor o rust e javascript. Gosto da informática pelo jeito que ela deixa eu criar o do meu, como meus sistemas, sites, jogos, SOs, APPs, entre outros. 
 
 ## 🛠️ Tecnologias & Ferramentas
 
 - **Linguagens:** Rust, JavaScript, Python
-- **Frameworks:** Axum, Express.js, Vue.js
-- **Bancos de Dados:** PostgreSQL, MySQL, Redis
+- **Frameworks:** Axum, Express.js
+- **Bancos de Dados:** MariaDB, PostgreSQL, MySQL, Redis
 
 ## 🔧 Principais Projetos
 
-- **SCE - Sistema de controle de estágios do IFRS Campus Feliz (Privado pela universidade)**
+- **TIfood - Sistema de vendas de alimentos utilizado para arrecadar dinheiro para formatura (Em organização e privado)**
+- **MistérioInFeliz - Jogo de suspense com objetivo de ambientizar novos alunos no IFRS Campus Feliz pelo campus (Em organização)**
 
 ## 📚 Experiência
 
-- **Desenvolvedor solo do SCE - Sistema de controle de estágios (2024 - 2024)**
-  - Analise, criação e manutenção do frontend, backend e banco de dados do sistema completo.
-  - Vue.js, Bootstrap, Axios, Node.js, Express.js e PostgreSQL.
+- **Desenvolvedor backend do TIfood**
+  - Desenvolvimento completo do backend e banco de dados, gerenciando os pagamentos via API do Mercado Livre.
+  - Rust, Axum, SeaORM, Redis, MariaDB e JWT (JsonWebToken).
+- **Desenvolvedor backend do Mistério InFeliz**
+  - Desenvolvimento completo do backend e banco de dados, modelando conforme necessidades.
+  - NodeJs, ExpressJs, Sequelize, PostgreSQL e JWT (JsonWebToken).
 
 ## 🎓 Educação
 
@@ -26,7 +30,9 @@ Sou um desenvolvedor fullstack apaixonado pela informática e estou na área a m
 ## 🏆 Certificações
 
 - **OBI - Olimpíada brasileira de informática**
-  - Top 50 na OBI, representando o IFRS Campus Feliz. 
+  - Top 50 na OBI, representando o IFRS Campus Feliz.
+- **Computer on the Beach - 2025**
+  - Mensão Honrosa na categoria de pesquisa nos trabalhos técnicos com o projeto "Mistério Infeliz: Aprender Criando Jogos". 
 
 ## 🌐 Contato
 
@@ -43,8 +49,8 @@ Sou um desenvolvedor fullstack apaixonado pela informática e estou na área a m
 
 <div align="center">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
