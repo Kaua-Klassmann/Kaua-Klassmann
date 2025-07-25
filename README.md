@@ -1,39 +1,3 @@
-# Olá! Me chamo Kauã Klassmann 👋
-
-Sou um desenvolvedor backend apaixonado pela informática e estou na área a mais de 4 anos. Tenho experiência com diversas tecnologias e alguns frameworks, dominando melhor o rust e javascript. Gosto da informática pelo jeito que ela deixa eu criar o do meu, como meus sistemas, sites, jogos, SOs, APPs, entre outros. 
-
-## 🛠️ Tecnologias & Ferramentas
-
-- **Linguagens:** Rust, JavaScript, Python
-- **Frameworks:** Axum, Express.js
-- **Bancos de Dados:** MariaDB, PostgreSQL, MySQL, Redis
-
-## 🔧 Principais Projetos
-
-- **TIfood - Sistema de vendas de alimentos utilizado para arrecadar dinheiro para formatura (Em organização e privado)**
-- **MistérioInFeliz - Jogo de suspense com objetivo de ambientizar novos alunos no IFRS Campus Feliz pelo campus (Em organização)**
-
-## 📚 Experiência
-
-- **Desenvolvedor backend do TIfood**
-  - Desenvolvimento completo do backend e banco de dados, gerenciando os pagamentos via API do Mercado Livre.
-  - Rust, Axum, SeaORM, Redis, MariaDB e JWT (JsonWebToken).
-- **Desenvolvedor backend do Mistério InFeliz**
-  - Desenvolvimento completo do backend e banco de dados, modelando conforme necessidades.
-  - NodeJs, ExpressJs, Sequelize, PostgreSQL e JWT (JsonWebToken).
-
-## 🎓 Educação
-
-- **IFRS Campus Feliz, Técnico em informática (2022 - Presente)**
-  - Ensino médio técnico de 4 anos.
-
-## 🏆 Certificações
-
-- **OBI - Olimpíada brasileira de informática**
-  - Top 50 na OBI, representando o IFRS Campus Feliz.
-- **Computer on the Beach - 2025**
-  - Mensão Honrosa na categoria de pesquisa nos trabalhos técnicos com o projeto "Mistério Infeliz: Aprender Criando Jogos". 
-
 ## 🌐 Contato
 
 <div> 
